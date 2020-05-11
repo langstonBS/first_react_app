@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+p {
+  font-family:'Arial, sans-serif';  
+}
+
+article {
+  float: left;
+  clear: both;
+  z-index: 2;
+}
+
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  clear: both;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+ 
+}

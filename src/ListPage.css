@@ -1,0 +1,17 @@
+
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2em;
+
+}
+
+.list {
+    border: black 1px solid;
+    list-style: none;
+}
+
+article {
+    
+}

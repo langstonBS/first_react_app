@@ -1,11 +1,11 @@
-import React, { Component } from 'react';
-import './index.css';
+import React, { Component } from 'react'
 
-export default class HomePage extends Component {
+export default class AddPage extends Component {
     render() {
         return (
-            <>
-                <div className ="homepage">
+            <div>
+                  <>
+                <div >
                     <h1> Books you Can Brag About Reading</h1>
                     <article>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
@@ -30,6 +30,7 @@ export default class HomePage extends Component {
                     </article>
                     </div>
             </>
+            </div>
         )
     }
 }

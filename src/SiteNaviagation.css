@@ -1,0 +1,39 @@
+ * {
+     margin: 0em;
+ }
+ .navul {
+    overflow: hidden;
+    background-color: #e9e9e9;
+    width: 100%;
+  }
+
+
+.navli {
+      list-style: none;
+      margin-right: 2em;
+  }
+
+
+  a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: .5em 1.25em;
+    font-size: 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+  }
+  
+a:hover {
+    background-color: #ddd;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+  }
+
+a.active {
+    background-color: gray;
+    color: white;
+  }
+  
